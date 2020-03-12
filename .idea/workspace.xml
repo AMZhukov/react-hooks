@@ -1,14 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab4ddadd-de83-44dd-97ea-dc692b991351" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Alert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Card.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/About.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/Profile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Yycz4hOxpaF0zRso6tTMrZeqnO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab4ddadd-de83-44dd-97ea-dc692b991351" name="Default Changelist" comment="" />
+      <created>1583918534666</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583918534666</updated>
+      <workItem from="1583918542634" duration="9747000" />
+      <workItem from="1583987574236" duration="310000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="410" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1583918566981">
+    <state x="215" y="26" key="SettingsEditor" timestamp="1583920085319">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
-    <state x="410" y="208" key="com.intellij.ide.util.TipDialog/62.0.1304.768@62.0.1304.768" timestamp="1583918566981" />
+    <state x="215" y="26" key="SettingsEditor/62.0.1304.768@62.0.1304.768" timestamp="1583920085319" />
+    <state x="410" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1583987605836">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="410" y="208" key="com.intellij.ide.util.TipDialog/62.0.1304.768@62.0.1304.768" timestamp="1583987605836" />
+    <state x="370" y="172" key="run.anything.popup" timestamp="1583925344232">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="370" y="172" key="run.anything.popup/62.0.1304.768@62.0.1304.768" timestamp="1583925344232" />
+    <state x="377" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1583926861565">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="377" y="89" width="672" height="678" key="search.everywhere.popup/62.0.1304.768@62.0.1304.768" timestamp="1583926861565" />
   </component>
 </project>
